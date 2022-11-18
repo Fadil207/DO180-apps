@@ -1,4 +1,4 @@
 <?php
-print "i love you"\n";
-print "hehe"\n";
+print "i love you\n";
+print "hehe\n";
 ?>
